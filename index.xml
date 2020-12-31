@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gregg(awatt)</title>
+    <link>https://greggawatt.github.io/</link>
+    <description>Recent content on Gregg(awatt)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 30 Dec 2020 08:57:50 -0800</lastBuildDate>
+    
+	<atom:link href="https://greggawatt.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How to contact the ISS with a Baofeng</title>
+      <link>https://greggawatt.github.io/posts/contact-the-iss-baofeng/</link>
+      <pubDate>Wed, 30 Dec 2020 10:14:08 -0800</pubDate>
+      
+      <guid>https://greggawatt.github.io/posts/contact-the-iss-baofeng/</guid>
+      <description>I&amp;rsquo;ve been a bit obsessed with trying to talk to space lately
+Did you know the International Space Station has a ham radio repeater? I&amp;rsquo;ve known this for years but now that I&amp;rsquo;m in the world of ham radio, I can do something about it.
+First off you should know what I&amp;rsquo;m working with:
+ Baofeng UV-5R 4w Ed Fong Dual Band DBJ-1  Why would you want to do this?</description>
+    </item>
+    
+    <item>
+      <title>Talks And Workshops</title>
+      <link>https://greggawatt.github.io/talks/</link>
+      <pubDate>Wed, 30 Dec 2020 08:57:50 -0800</pubDate>
+      
+      <guid>https://greggawatt.github.io/talks/</guid>
+      <description>2020 August DefCon: App Sec Village
+10,000 dependencies under the sea: Exploring and Securing Open Source Dependencies
+2014 July Hope X
+Surveillance, Sousveillance, and Anti-Surveillance: Artistic Responses to Watching</description>
+    </item>
+    
+  </channel>
+</rss>

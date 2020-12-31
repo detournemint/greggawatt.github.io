@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Gregg(awatt)</title>
+    <link>https://greggawatt.github.io/posts/</link>
+    <description>Recent content in Posts on Gregg(awatt)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 30 Dec 2020 10:14:08 -0800</lastBuildDate>
+    
+	<atom:link href="https://greggawatt.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How to contact the ISS with a Baofeng</title>
+      <link>https://greggawatt.github.io/posts/contact-the-iss-baofeng/</link>
+      <pubDate>Wed, 30 Dec 2020 10:14:08 -0800</pubDate>
+      
+      <guid>https://greggawatt.github.io/posts/contact-the-iss-baofeng/</guid>
+      <description>I&amp;rsquo;ve been a bit obsessed with trying to talk to space lately
+Did you know the International Space Station has a ham radio repeater? I&amp;rsquo;ve known this for years but now that I&amp;rsquo;m in the world of ham radio, I can do something about it.
+First off you should know what I&amp;rsquo;m working with:
+ Baofeng UV-5R 4w Ed Fong Dual Band DBJ-1  Why would you want to do this?</description>
+    </item>
+    
+  </channel>
+</rss>
