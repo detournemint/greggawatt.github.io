@@ -6,10 +6,17 @@
     <description>Recent content on Gregg(awatt)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 30 Dec 2020 08:57:50 -0800</lastBuildDate>
-    
-	<atom:link href="https://greggawatt.github.io/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Thu, 06 Oct 2022 20:58:47 -0700</lastBuildDate><atom:link href="https://greggawatt.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Doomscrolling and The Spectacle</title>
+      <link>https://greggawatt.github.io/posts/doomscrolling-and-the-spectacle/</link>
+      <pubDate>Thu, 06 Oct 2022 20:58:47 -0700</pubDate>
+      
+      <guid>https://greggawatt.github.io/posts/doomscrolling-and-the-spectacle/</guid>
+      <description>About a month ago, I deleted twitter.
+Twitter was a useful tool for me since 2007, I was a very early user of the platform and remember when you could text to it to post. I saw value in the platform early on for decentralized communications. I build software to help activists use the platform and used it myself during the oscar grant rebellions, occupy oakland and many more.
+I have met many people who I still really enjoy on Twitter.</description>
+    </item>
     
     <item>
       <title>How to contact the ISS with a Baofeng</title>
@@ -20,7 +27,7 @@
       <description>I&amp;rsquo;ve been a bit obsessed with trying to talk to space lately
 Did you know the International Space Station has a ham radio repeater? I&amp;rsquo;ve known this for years but now that I&amp;rsquo;m in the world of ham radio, I can do something about it.
 First off you should know what I&amp;rsquo;m working with:
- Baofeng UV-5R 4w Ed Fong Dual Band DBJ-1  Why would you want to do this?</description>
+Baofeng UV-5R 4w Ed Fong Dual Band DBJ-1 Why would you want to do this? Well the repeater can allow you to get contacts to people in areas outside of your normal range with just VHF/UHF, also beaming to space is fun.</description>
     </item>
     
     <item>
